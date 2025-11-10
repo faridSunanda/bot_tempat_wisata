@@ -12,8 +12,8 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.utils import executor
 
 # ================= CONFIG =================
-BOT_TOKEN = "7739470286:AAENQyesrOL6Bu7R1WMvfIFWiUlBOQ37O_k"
-ADMIN_IDS = [5588770450]
+BOT_TOKEN = "xxxx"
+ADMIN_IDS = [xxxx]
 QRIS_IMAGE_PATH = "assets/qris_static.jpeg"
 TICKET_PRICE = 20000
 
