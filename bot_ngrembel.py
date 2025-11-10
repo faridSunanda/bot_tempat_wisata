@@ -15,7 +15,7 @@ from aiogram.utils import executor
 BOT_TOKEN = "xxxx"
 ADMIN_IDS = [xxxx]
 QRIS_IMAGE_PATH = "assets/qris_static.jpeg"
-TICKET_PRICE = 20000
+TICKET_PRICE = 10000
 
 DB_CONFIG = {
     "host": "localhost",
